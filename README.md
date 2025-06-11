@@ -20,7 +20,7 @@
 
 ## 설치 방법
 
-1. [다운로드 링크](https://github.com/seungdols/alfred_ridibooks/releases/download/0.0.1/Search.RIDI.books.alfredworkflow)에서 워크플로우 파일(.alfredworkflow) 다운로드
+1. [다운로드 링크](https://github.com/seungdols/alfred_ridibooks/releases/download/0.0.2/Search.RIDI.books.alfredworkflow)에서 워크플로우 파일(.alfredworkflow) 다운로드
 2. 다운로드한 파일을 더블클릭하여 Alfred에 설치
 3. Alfred의 워크플로우 목록에서 설치 확인
 
